@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Code of Conduct</name>
+   <tag></tag>
+   <elementGuidId>17adad7f-4184-43cb-b9a1-7a5405bbe28e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3717']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3717 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Code of Conduct ►&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cda5f60e-645e-40a9-b1c8-bba295d31570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>630a7051-46ec-4c1d-b722-8d893c1e11f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nmssvcollege.com/wp-content/uploads/2020/12/CodeOfConduct19-20.pdf</value>
+      <webElementGuid>86e83304-6cb1-4ff3-b32a-ccba1360cd83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Code of Conduct</value>
+      <webElementGuid>94ea06ff-1b9c-4950-a4c7-a89b8923a5f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3717&quot;)/a[1]</value>
+      <webElementGuid>f26234c0-7ab5-4404-b7e4-f5738765caf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3717']/a</value>
+      <webElementGuid>4c245621-7448-4bf4-882a-620000d9add4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Code of Conduct')]</value>
+      <webElementGuid>4d600f8c-c1b9-4466-90b9-44a3d376468e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organogram'])[1]/following::a[1]</value>
+      <webElementGuid>c4cfbfe6-7286-49b4-8e69-b323d9bed5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vision &amp; Mission'])[1]/following::a[2]</value>
+      <webElementGuid>3f3be416-7b4c-4d1f-8a0a-5706d6acf487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[2]/preceding::a[4]</value>
+      <webElementGuid>3ecdaecc-74ad-4655-92e2-9a8c5fcc92ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Core Values'])[1]/preceding::a[5]</value>
+      <webElementGuid>05fed1f3-9cfd-46eb-a6fe-6178ff45285c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Code of Conduct']/parent::*</value>
+      <webElementGuid>9967ffc9-9ea9-4b5b-a29c-562ad1488518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nmssvcollege.com/wp-content/uploads/2020/12/CodeOfConduct19-20.pdf')]</value>
+      <webElementGuid>61f37619-8f1d-48aa-a520-6d7633680af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/ul/li[4]/a</value>
+      <webElementGuid>df6969e6-8986-4a8a-9626-198fac82e254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nmssvcollege.com/wp-content/uploads/2020/12/CodeOfConduct19-20.pdf' and (text() = 'Code of Conduct' or . = 'Code of Conduct')]</value>
+      <webElementGuid>57569659-bc2c-4602-be36-2bd739c3a0c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

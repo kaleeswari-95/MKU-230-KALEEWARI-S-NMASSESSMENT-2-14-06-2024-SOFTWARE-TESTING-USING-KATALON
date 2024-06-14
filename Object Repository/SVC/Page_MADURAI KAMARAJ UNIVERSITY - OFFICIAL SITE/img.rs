@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>97d40000-bb4d-424e-ab90-33a575b65944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Campus Virtual Tour']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Campus Virtual Tour&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;MADURAI KAMARAJ UNIVERSITY - MAP Campus Virtual Tour&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>09d7393a-1b5b-427a-89cb-db36c4a4a7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../images\map.png</value>
+      <webElementGuid>71f89368-613f-4231-b3a0-0fbee978de85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>75194a41-809b-46c5-9df0-80cd1ff4b040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>180</value>
+      <webElementGuid>bb90ae8a-25b4-48fb-b37b-35fbef0336be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Campus Virtual Tour</value>
+      <webElementGuid>0c7f7ba7-1a62-4e81-8634-65e3b59c258e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/font[1]/font[1]/div[1]/footer[@class=&quot;bg-alt&quot;]/div[@class=&quot;container footer&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/a[@class=&quot;nounderline&quot;]/ul[@class=&quot;list-unstyled&quot;]/img[1]</value>
+      <webElementGuid>2db54ae3-c055-437b-8a82-02c39112745c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Campus Virtual Tour']</value>
+      <webElementGuid>7e3ea5ca-9560-4052-a75e-bf848b7d59b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/img</value>
+      <webElementGuid>faec8ed5-2c28-4d98-8f49-0ca0f65e937d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images\map.png' and @alt = 'Campus Virtual Tour']</value>
+      <webElementGuid>ecfc2a66-f8af-4ba2-863a-e9f20851f763</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

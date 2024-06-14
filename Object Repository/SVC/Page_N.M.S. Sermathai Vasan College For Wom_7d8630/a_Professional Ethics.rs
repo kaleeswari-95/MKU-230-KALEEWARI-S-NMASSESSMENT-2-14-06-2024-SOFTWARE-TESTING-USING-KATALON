@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Professional Ethics</name>
+   <tag></tag>
+   <elementGuidId>9d0da862-12f9-4a98-9b96-859db1c894f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3719']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3719 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Professional Ethics&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b0d0db10-d2ab-4fb8-aaac-a2da7cc1e958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>10f4a550-bb60-49ea-8894-3d5b7adfb448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nmssvcollege.com/wp-content/uploads/2018/05/ProfessionalEthicsCode.pdf</value>
+      <webElementGuid>0680210b-03a7-45b1-8b62-263af46255ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Professional Ethics</value>
+      <webElementGuid>abbb7a93-a017-4d0a-b632-c6f0c4df4486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3719&quot;)/a[1]</value>
+      <webElementGuid>6f5e1d0a-176f-4715-a78d-aa34d24e7ab4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3719']/a</value>
+      <webElementGuid>fd5c6c8a-de61-4311-9076-59af58f2ae07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Professional Ethics')]</value>
+      <webElementGuid>7c15eeb6-0cb8-43ad-9fc5-6329bc5fb9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Core Values'])[1]/following::a[1]</value>
+      <webElementGuid>d0246e3e-0096-4314-8f19-b64e0bfad9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[2]/following::a[2]</value>
+      <webElementGuid>edbfded2-9276-4669-a3cb-7d74ff87fff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/preceding::a[1]</value>
+      <webElementGuid>e307faf2-659a-417f-8dc8-596e057a2395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Management'])[1]/preceding::a[2]</value>
+      <webElementGuid>5ec19283-23f3-4c69-8630-e7bd49c78dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Professional Ethics']/parent::*</value>
+      <webElementGuid>21949430-5312-4b67-afb2-2f394a4b3ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nmssvcollege.com/wp-content/uploads/2018/05/ProfessionalEthicsCode.pdf')]</value>
+      <webElementGuid>4463bc17-8eb7-4338-8cb2-6de63c593427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[7]/a</value>
+      <webElementGuid>eb57a12b-c51e-4b34-864e-90bbf2378e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nmssvcollege.com/wp-content/uploads/2018/05/ProfessionalEthicsCode.pdf' and (text() = 'Professional Ethics' or . = 'Professional Ethics')]</value>
+      <webElementGuid>7d216d06-2d72-41d3-be8f-b1192c07f477</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

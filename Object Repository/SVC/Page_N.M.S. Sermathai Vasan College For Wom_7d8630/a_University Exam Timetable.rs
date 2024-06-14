@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_University Exam Timetable</name>
+   <tag></tag>
+   <elementGuidId>83af6896-6729-43ce-bd27-816616fa328d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3919']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3919 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;University Exam Timetable&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71447643-c3c2-4eb2-900c-ac39ee4d9ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://mkuniversity.ac.in/new/examination/ExaminationSchedule</value>
+      <webElementGuid>abf85722-4757-4da1-a5d7-ca7f75b8d6e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>University Exam Timetable</value>
+      <webElementGuid>ae5e60fe-337b-43aa-ae4e-64a82c2c73de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3919&quot;)/a[1]</value>
+      <webElementGuid>407d11f4-28de-4c51-83b6-4e439da24999</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3919']/a</value>
+      <webElementGuid>915df810-3f41-41ed-8334-d7ce7f69b12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'University Exam Timetable')]</value>
+      <webElementGuid>392bae80-10a7-463f-898f-4d6cec07b994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ExamCell'])[2]/following::a[1]</value>
+      <webElementGuid>1b0770bb-b71d-40f5-9374-3dffad667798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ExamCell'])[1]/following::a[2]</value>
+      <webElementGuid>ba89d093-c8fe-4754-9bc5-498b722d1d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIRF 2024'])[1]/preceding::a[2]</value>
+      <webElementGuid>28e24ca0-7a33-4dba-ab16-4ea4c0bda58f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIRF 2023'])[1]/preceding::a[3]</value>
+      <webElementGuid>5bf09492-b28b-4f65-807a-cb780cd8a8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='University Exam Timetable']/parent::*</value>
+      <webElementGuid>a7ededfd-8b70-4ed8-978d-442c4e77d907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://mkuniversity.ac.in/new/examination/ExaminationSchedule']</value>
+      <webElementGuid>f8e2f048-8f1f-4d4b-80d6-96bf5ddcee10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/li[2]/a</value>
+      <webElementGuid>f57b4dd6-5ee9-4ef5-826e-86c0d0f5dfa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://mkuniversity.ac.in/new/examination/ExaminationSchedule' and (text() = 'University Exam Timetable' or . = 'University Exam Timetable')]</value>
+      <webElementGuid>2d05fb26-41cb-44fe-ba38-4fe00f35f63f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

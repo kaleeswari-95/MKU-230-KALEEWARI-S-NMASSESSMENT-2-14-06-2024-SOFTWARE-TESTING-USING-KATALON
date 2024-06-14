@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Archaeological Association</name>
+   <tag></tag>
+   <elementGuidId>cd63756f-721b-49d6-84b0-35e5a6e851dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-8002']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-8002 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Archaeological Association&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cf983654-f979-4b84-a8c6-f399e2beb880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2fae35de-bc92-4f39-a4fc-752e9d9d3fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nmssvcollege.com/wp-content/uploads/2023/12/Unique-Features.pdf</value>
+      <webElementGuid>9c197749-aa49-4674-bf58-d388b55ce886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Archaeological Association</value>
+      <webElementGuid>5177762b-903e-4d8d-8625-b37d4b0dae2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-8002&quot;)/a[1]</value>
+      <webElementGuid>a9a2278a-6aa2-4c6c-bdf7-d699db42b2ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-8002']/a</value>
+      <webElementGuid>d6473419-ed7e-4a31-a4c1-6737ca1defd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Archaeological Association')]</value>
+      <webElementGuid>b35fc3f9-0225-4973-82cf-df79aae4f7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placement Training'])[1]/following::a[1]</value>
+      <webElementGuid>7925b080-36f3-45af-a992-e12028410e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capacity building'])[1]/following::a[4]</value>
+      <webElementGuid>f85944f3-e01f-41b2-aef0-05d040aa669b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capability enhancement'])[1]/preceding::a[1]</value>
+      <webElementGuid>7490abc2-5d1a-42f8-bb57-91632f086927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coaching for Competitive Exams'])[1]/preceding::a[2]</value>
+      <webElementGuid>4338a7cb-da9f-40a1-9c0f-d594cf1995f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Archaeological Association']/parent::*</value>
+      <webElementGuid>11b3561c-e938-49a1-8963-e98aad49ee8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nmssvcollege.com/wp-content/uploads/2023/12/Unique-Features.pdf')]</value>
+      <webElementGuid>34135e63-76e9-4c66-8d09-38e422e486da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[3]/a</value>
+      <webElementGuid>2668efcf-6855-4079-9cab-98a32ce9c667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nmssvcollege.com/wp-content/uploads/2023/12/Unique-Features.pdf' and (text() = 'Archaeological Association' or . = 'Archaeological Association')]</value>
+      <webElementGuid>c011440f-ac49-4a5c-ba4b-1b42df567a24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
